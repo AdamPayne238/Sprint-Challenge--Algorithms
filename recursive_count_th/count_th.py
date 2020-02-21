@@ -12,7 +12,7 @@ def count_th(word):
     count = 0
 
     # base case
-    if len(word) <= 1:
+    if len(word) is 0:
         return 0
         print("len(word", len(word))
 
