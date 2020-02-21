@@ -13,7 +13,7 @@ O(n-1)
 
 ## Exercise II
 
-for every floor possible from floor zero to length of floors vertically
+for every floor possible from floor zero to number of floors
 if the floor we are on is greater than or equal to f
 the egg will break at this floor so we will not drop the egg
 otherwise if the floor is less than f we will drop the egg
